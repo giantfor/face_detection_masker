@@ -12,4 +12,4 @@ pip install keras                  , an API or framework for building neural net
 
 pip install imutils                , a library for managing pictures,  translation,  rotation, and resizing pictures
 
-Djarot Hindarto
+
