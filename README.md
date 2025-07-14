@@ -4,12 +4,12 @@ Install framework:
 
 pip install tensorflow-cpu 
 
-pip install tensorflow-gpu           -----> nvidia untuk gpu nya
+pip install tensorflow-gpu           -----> NVIDIA for its GPU
 
-pip install opencv-python            -----> untuk mengolah gambar dan video
+pip install opencv-python            -----> for editing images and videos
 
-pip install keras                   , API or framework for build neural network, framework deep learning most use top 5 framework in kaggle.com
+pip install keras                  , an API or framework for building neural networks, a deep learning framework, most use the top 5 frameworks on kaggle.com
 
-pip install imutils                 , library for manage pic,  translation  rotation, resize picture
+pip install imutils                , a library for managing pictures,  translation,  rotation, and resizing pictures
 
-Djarot Hindarto, 2020101006
+Djarot Hindarto
